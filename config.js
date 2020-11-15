@@ -17,9 +17,9 @@ var settings = {
     "showtwitter": "true"
 };
 var dropdowns = {
-    "contentserver": "https://member.bchd.cash/v2/member.js",
-    "txbroadcastserver": "https://member.bchd.cash/v2/",
-    "utxoserver": "https://member.bchd.cash/v2/",
+    "contentserver": "https://memberjs.bchd.cash/v2/member.js",
+    "txbroadcastserver": "https://memberjs.bchd.cash/v2/",
+    "utxoserver": "https://memberjs.bchd.cash/v2/",
     "currencydisplay": "USD",
     "languageselector": "en"
 };
