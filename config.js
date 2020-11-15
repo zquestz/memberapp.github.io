@@ -7,8 +7,8 @@ var maxfee = 2;
 var pathpermalinks = 'https://member.cash/';
 var profilepicbase = 'https://member.cash/img/profilepics/';
 mapTileProvider = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
-var siteTitle = 'member.cash';
-var theStyle = 'feels compact';
+var siteTitle = 'member.bchd.cash';
+var theStyle = 'feels';
 
 //These should probably all go in a single config object
 var settings = {
@@ -17,9 +17,9 @@ var settings = {
     "showtwitter": "true"
 };
 var dropdowns = {
-    "contentserver": "https://member.cash/v2/member.js",
-    "txbroadcastserver": "https://member.cash/v2/",
-    "utxoserver": "https://member.cash/v2/",
+    "contentserver": "https://member.bchd.cash/v2/member.js",
+    "txbroadcastserver": "https://member.bchd.cash/v2/",
+    "utxoserver": "https://member.bchd.cash/v2/",
     "currencydisplay": "USD",
     "languageselector": "en"
 };
